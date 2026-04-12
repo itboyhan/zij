@@ -1,0 +1,42 @@
+#EXTM3U
+
+# ===== TV3 =====
+
+#EXTINF:-1 group-title="Malaysia",TV3
+https://iptv-org.github.io/iptv/languages/ms.m3u8
+https://live.sg1-edge.com/tv3/stream.m3u8
+https://example-cdn.tv3.my/live.m3u8
+
+# ===== TV1 (RTM1) =====
+
+#EXTINF:-1 group-title="Malaysia",RTM1
+https://rtm-live.rtm.gov.my/rtm1/stream.m3u8
+https://iptv-org.github.io/iptv/countries/my.m3u8
+
+# ===== TV2 (RTM2) =====
+
+#EXTINF:-1 group-title="Malaysia",RTM2
+https://rtm-live.rtm.gov.my/rtm2/stream.m3u8
+https://iptv-org.github.io/iptv/countries/my.m3u8
+
+# ===== TV Okey =====
+
+#EXTINF:-1 group-title="Malaysia",TV Okey
+https://rtm-live.rtm.gov.my/tvokey/stream.m3u8
+
+# ===== Bernama TV =====
+
+#EXTINF:-1 group-title="Malaysia",Bernama TV
+https://live.bernama.com/bernama/stream.m3u8
+https://iptv-org.github.io/iptv/countries/my.m3u8
+
+# ===== TV Alhijrah =====
+
+#EXTINF:-1 group-title="Malaysia",TV Alhijrah
+https://live.tvalhijrah.com/hls/live.m3u8
+
+# ===== Astro Awani =====
+
+#EXTINF:-1 group-title="Malaysia",Astro Awani
+https://awani-live.astro.com.my/hls/live.m3u8
+https://iptv-org.github.io/iptv/channels/my.m3u8
