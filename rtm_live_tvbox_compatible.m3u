@@ -1,0 +1,42 @@
+#EXTM3U
+
+###########################
+# Malaysia Channels
+###########################
+
+#EXTINF:-1 tvg-id="MY_TV1" tvg-name="TV1" tvg-country="MY" group-title="Malaysia",TV1
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+#EXTINF:-1 tvg-id="MY_TV2" tvg-name="TV2" tvg-country="MY" group-title="Malaysia",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b346000_slENG.m3u8?id=2
+#EXTINF:-1 tvg-id="MY_OKTV" tvg-name="OKTV" tvg-country="MY" group-title="Malaysia",OKTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:-1 tvg-id="MY_BeritaRTM" tvg-name="Berita RTM" tvg-country="MY" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
+#EXTINF:-1 tvg-id="MY_SukanRTM" tvg-name="Sukan RTM" tvg-country="MY" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b596000_slENG.m3u8?id=4
+#EXTINF:-1 tvg-id="MY_TV6" tvg-name="TV6" tvg-country="MY" group-title="Malaysia",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1096000_slENG.m3u8?id=6
+#EXTINF:-1 tvg-id="MY_RTMAsean_1096" tvg-name="RTM Asean SD" tvg-country="MY" group-title="Malaysia",RTM Asean SD
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b1096000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_RTMAsean_2596" tvg-name="RTM Asean HD" tvg-country="MY" group-title="Malaysia",RTM Asean HD
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_DewanNegara_796" tvg-name="Dewan Negara SD" tvg-country="MY" group-title="Malaysia",Dewan Negara SD
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b796000_slENG.m3u8?id=8
+#EXTINF:-1 tvg-id="MY_DewanNegara_1096" tvg-name="Dewan Negara HD" tvg-country="MY" group-title="Malaysia",Dewan Negara HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b1096000_slENG.m3u8?id=8
+#EXTINF:-1 tvg-id="MY_DewanRakyat" tvg-name="Dewan Rakyat" tvg-country="MY" group-title="Malaysia",Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b1096000_slENG.m3u8?id=7
+#EXTINF:-1 tvg-id="MY_Roll" tvg-name="Roll" tvg-country="MY" group-title="Malaysia",Roll
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b1096000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_Snap" tvg-name="Snap" tvg-country="MY" group-title="Malaysia",Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b596000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_Apetito" tvg-name="Apetito" tvg-country="MY" group-title="Malaysia",Apetito
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b1096000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_Lead" tvg-name="Lead" tvg-country="MY" group-title="Malaysia",Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_Aura" tvg-name="Aura" tvg-country="MY" group-title="Malaysia",Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_Fitrah" tvg-name="Fitrah" tvg-country="MY" group-title="Malaysia",Fitrah
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-id="MY_JR" tvg-name="JR." tvg-country="MY" group-title="Malaysia",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
