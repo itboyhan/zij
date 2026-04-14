@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="live-tv3" tvg-name="Live TV3" tvg-logo="https://picsum.photos/200/200?random=1" group-title="直播",Live TV3
+https://live-tv3.aiapex.cc/stream.m3u8
