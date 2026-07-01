@@ -42,5 +42,5 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="MY_JR" tvg-name="JR." tvg-country="MY" group-title="Malaysia",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-
-
+#EXTINF:-1 tvg-id="WC1" tvg-name="WC1" tvg-country="MY" group-title="Malaysia",WC1
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/HLS/wc1.m3u8
